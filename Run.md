@@ -39,7 +39,6 @@ Enter the number of the script to run, 'i' to view info, or 'q' to quit: i 1
 Enter the number of the script to run, 'i' to view info, or 'q' to quit: 1
 Running test.ps1...
 
+
 Execute the script by typing this:
-```
-.\PathBackupRestore.ps1
-```
+.\Run.ps1
